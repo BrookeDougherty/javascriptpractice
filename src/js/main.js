@@ -1,16 +1,6 @@
-
-<!DOCTYPE html>
-<html>
-<body>
-
-
-<script>
-const LedZeppelinSongs = [
+// Array
+let Zeppelin = [
   "Hey Hey What Can I Do",
   "Heartbreaker",
-  "Since I've Been Loving You"
+  "Since I've Been Loving You",
 ];
-document.getElementById("demo").innerHTML = LedZeppelin;
-
-</script>
-
